@@ -1,0 +1,7 @@
+
+The list and summ are [42, 42, 41, 49, 49] and 223
+The list and summ are [30, 26, 28, 32, 9] and 125
+The list and summ are [4, 6, 16, 36, 19] and 81
+The list and summ are [11, 49, 17, 4, 5] and 86
+
+

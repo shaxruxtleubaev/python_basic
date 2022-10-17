@@ -1,0 +1,8 @@
+
+[['Машина Audi едет с водителем Алибек']]
+[['Машина Audi едет с водителем Алибек']]
+[['The car Audi is coming with driver Алибек']]
+[['The car Audi is coming with driver Алибек']]
+['The car BMW is coming with driver Ismail']
+[['The car Audi is coming with driver Alibek']]
+['The car BMW is coming with driver Ismail']

@@ -1,0 +1,27 @@
+#first {
+    color: brown;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: bold;
+    margin: 10px 600px;
+}
+#second {
+    color: rgb(26, 112, 198);
+    font-family: monospace;
+    text-transform: uppercase;
+    font-style: bold;
+    margin: 10px 600px;
+}
+#text {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: darkorange;
+        
+}
+a {
+    color: crimson;
+    text-decoration: none;
+}
+a:hover {
+    color: darkorchid;
+}
